@@ -1,0 +1,1 @@
+bazel_dep(name = "rules_uv", version = "0.31.0")

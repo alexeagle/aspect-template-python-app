@@ -1,0 +1,3 @@
+_exclude:
+  - MODULE.bazel*
+  - copier.yaml
