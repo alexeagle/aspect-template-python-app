@@ -1,4 +1,4 @@
 import cowsay
 
-def cowsay(text):
+def moo(text):
     cowsay.cow(text)
