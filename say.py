@@ -1,5 +1,5 @@
 import cowsay
-from os import path, environ, sep
+from os import path, getenv, sep
 
 # Note, we could use https://pypi.org/project/bazel-runfiles/
 # for a more robust lookup mechanism of files provided in the `data` attribute.
